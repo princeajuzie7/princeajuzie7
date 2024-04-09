@@ -50,9 +50,9 @@ I'm proficient in a variety of languages and tools, including but not limited to
 
 ### 📊 &nbsp;GitHub Stats
   <a align="right" href="https://app.daily.dev/princeajuzie"><img align="right" width="330" src="https://api.daily.dev/devcards/0ed525d5f92444fab3f1d4135b7b2a30.png?r=ypl" width="400" alt="princeajuzie's Dev Card"/></a>
-![](https://github-readme-stats.vercel.app/api?username=princeajuzie&theme=highcontrast&background=000000&rank_icon=github&hideborder=true&include_all_commits=true&count_private=false)<br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=princeajuzie&theme=highcontrast&background=000000)](https://git.io/streak-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princeajuzie&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=princeajuzie7&theme=highcontrast&background=000000&rank_icon=github&hideborder=true&include_all_commits=true&count_private=false)<br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=princeajuzie7&theme=highcontrast&background=000000)](https://git.io/streak-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princeajuzie7&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
