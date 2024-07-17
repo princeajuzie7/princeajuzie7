@@ -69,7 +69,7 @@ I'm proficient in a variety of languages and tools, including but not limited to
 #### [Oravent](https://github.com/Princeajuzie/oravent)
 - Description: An Event booking app.
 - Technologies Used: Next js, Javascript, Email js, and Axios for data fetching.
-- Demo: https://oravent.vercel.app/.
+- Demo: https://oravents.vercel.app/.
 
 ### ✍️ &nbsp;Blog Posts
 
