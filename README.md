@@ -59,18 +59,6 @@ I'm proficient in a variety of languages and tools, including but not limited to
 
 
 
-### 📝 &nbsp;Featured Projects
-
-#### [Cinewave](https://github.com/Princeajuzie/cinewave)
-- Description: A Movie app that leverages the TMDB API.
-- Technologies Used: Next js, Typescript, Contex Api.
-- Demo: https://cinewaves.vercel.app/
-
-#### [Oravent](https://github.com/Princeajuzie/oravent)
-- Description: An Event booking app.
-- Technologies Used: Next js, Javascript, Email js, and Axios for data fetching.
-- Demo: https://oravents.vercel.app/.
-
 ### ✍️ &nbsp;Blog Posts
 
 - [Why Express Js? Out Of Other Frameworks](https://princeajuzie.hashnode.dev/why-express-js-out-of-other-frameworks#clhr6dlje01auq6nv5jnwfkyf)
