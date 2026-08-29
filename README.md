@@ -3,4 +3,4 @@ $ whoami --deep
 > target: liberation(*)
 > scope: everyone, including you
 
-> :: asanga, ~4th c.
+ :: asanga, ~4th c.
